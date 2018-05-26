@@ -1,6 +1,10 @@
-# Installing R, R Studio Server and Shiny Server on EC2
+# Installation scripts for EC2 instances
 
-## install-rstudio-ec2.sh
+Author: RV
+
+## Installing R, R Studio Server and Shiny Server on EC2
+
+### install-rstudio-ec2.sh
 
 This is an customization of multiple sources.
 
@@ -14,7 +18,7 @@ R Studio port can be changed with:
 
 Changing Shiny Server port (3838) has not been yet implemented.
 
-### Supported options
+#### Supported options
 
 The following options are supported as script args:
 * `--port <RSTUDIO port>`: change R Studio Server default port (8787)

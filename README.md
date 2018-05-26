@@ -1,4 +1,4 @@
-# Scripts for (quickly) provisioning cloud instances
+# Scripts for provisioning cloud instances (themisto project)
 
 This is a serie of scripts to easily provision (data science) instances with full set of packages, modules, etc.
 

@@ -25,6 +25,6 @@ The following options are supported as script args:
 * `--user <R user>`: change R default user (ruser)
 * `--password <R user password>`: change R default user password (ruser)
 * `--version <RSTUDIO version>`: download & install this R Studio version
-* `--shiny-version <SHINY version>`: download & install this R Studio version
+* `--shiny-version <SHINY version>`: download & install this Shiny Server version
 * `--shiny`: make sure Shiny Server is installed
 * `--noshiny`: make sure Shiny Server is NOT installed (default)

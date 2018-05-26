@@ -6,14 +6,14 @@ Author: RV
 
 ### install-rstudio-ec2.sh
 
-This is an customization of multiple sources.
+This is a customization of multiple sources.
 
-The following versions should / can be updated:
+The following versions should / can be updated (or provided as script arguments, see below):
 * R Studio: RSTUDIO_VERSION="1.1.453"
 
 * Shiny Server: SHINY_SERVER_VERSION="1.5.8.913"
 
-R Studio port can be changed with:
+R Studio port can be changed with (or script argument, see below):
 * RSTUDIO_PORT="8787"
 
 Changing Shiny Server port (3838) has not been yet implemented.
